@@ -4,7 +4,7 @@
 游戏背景：
 
 故事情景：
-aaa
 
+aaa
 ##线上地址##
 http://heroes.github.com/world-of-heroes
